@@ -1,0 +1,9 @@
+main: me.chris.Syringe.Main
+name: Syringe
+version: 0.29
+author: chris
+api-version: 1.15
+
+commands:
+  syringe ver:
+    description: gives you the current version of the plugin

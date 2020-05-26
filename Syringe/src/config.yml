@@ -1,0 +1,11 @@
+#Default: .2
+setDelay: .2
+
+#Default:     2
+syringeDelay: 2
+
+#Default:          3
+syringeInitHealth: 3
+
+#Default:            .5
+syringeLingerHealth: .5
